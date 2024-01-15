@@ -3,8 +3,8 @@ import random
 from docx.shared import Cm, Pt
 from docx import Document
 
-spiskiDirectory = 'spiski/'
-protokoliDirectory = 'protokoli/'
+spiskiDirectory = '/workspaces/Projekts/Spiski'
+protokoliDirectory = '/workspaces/Projekts/Protokoli'
 
 def createWordFromText(textFilePath):
     with open(textFilePath, 'r') as file:
