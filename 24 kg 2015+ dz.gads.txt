@@ -1,0 +1,4 @@
+Wrestler 1,Riga
+Wrestler 2,Daugavpils
+Wrestler 3,Liepaja
+Wrestler 4,Riga
